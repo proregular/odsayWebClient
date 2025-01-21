@@ -1,4 +1,4 @@
-package com.green.odsaywebclient.constant;
+package com.green.odsaywebclient.config.constant;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
